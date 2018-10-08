@@ -1,11 +1,26 @@
-body {
-  background-color: #4f4f4f;
-  color: #d1d1d1;
+.bad {
+color: red;
+text-align: center;
+}
+
+.red {
+  color: #FF00F3;
 }
 
 img.swift {
-  width: 50%;
-  height: 50%;
+  width: 25%;
+  height: 25%;
   border-radius: 50%;
-  text-align: center;
+
+}
+
+img.swift:hover {
+  transform: scale(0.9);
+
+}
+
+body {
+  background-color: #75FF19;
+  color: #FF8100;
+
 }
