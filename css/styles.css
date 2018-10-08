@@ -1,0 +1,11 @@
+body {
+  background-color: #4f4f4f;
+  color: #d1d1d1;
+}
+
+img.swift {
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  text-align: center;
+}
